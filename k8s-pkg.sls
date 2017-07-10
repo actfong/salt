@@ -1,0 +1,4 @@
+kubernetes:
+  pkg:
+    - installed
+
